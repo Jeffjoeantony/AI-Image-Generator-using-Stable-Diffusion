@@ -1,0 +1,1 @@
+searchbox = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located(By.NAME, "q"))

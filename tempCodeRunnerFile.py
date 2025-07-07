@@ -1,0 +1,2 @@
+
+    msg = entry.get().lower()
